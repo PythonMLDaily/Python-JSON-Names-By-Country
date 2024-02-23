@@ -1,0 +1,4214 @@
+[
+    {
+        "type": "google",
+        "language": "Afrikaans (South Africa)",
+        "voiceType": "Standard",
+        "languageCode": "af-ZA",
+        "voiceName": "af-ZA-Standard-A",
+        "gender": "FEMALE",
+        "name": "Lerato"
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "Standard",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Standard-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "Standard",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Standard-B",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "Standard",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Standard-C",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "Standard",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Standard-D",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "WaveNet",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Wavenet-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "WaveNet",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Wavenet-B",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "WaveNet",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Wavenet-C",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Arabic",
+        "voiceType": "WaveNet",
+        "languageCode": "ar-XA",
+        "voiceName": "ar-XA-Wavenet-D",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Basque (Spain)",
+        "voiceType": "Standard",
+        "languageCode": "eu-ES",
+        "voiceName": "eu-ES-Standard-A",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Bengali (India)",
+        "voiceType": "Standard",
+        "languageCode": "bn-IN",
+        "voiceName": "bn-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Bengali (India)",
+        "voiceType": "Standard",
+        "languageCode": "bn-IN",
+        "voiceName": "bn-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Sanjay"
+    },
+    {
+        "type": "google",
+        "language": "Bengali (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "bn-IN",
+        "voiceName": "bn-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Neha"
+    },
+    {
+        "type": "google",
+        "language": "Bengali (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "bn-IN",
+        "voiceName": "bn-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Md"
+    },
+    {
+        "type": "google",
+        "language": "Bulgarian (Bulgaria)",
+        "voiceType": "Standard",
+        "languageCode": "bg-BG",
+        "voiceName": "bg-BG-Standard-A",
+        "gender": "FEMALE",
+        "name": "Desislava"
+    },
+    {
+        "type": "google",
+        "language": "Catalan (Spain)",
+        "voiceType": "Standard",
+        "languageCode": "ca-ES",
+        "voiceName": "ca-ES-Standard-A",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Hong Kong)",
+        "voiceType": "Standard",
+        "languageCode": "yue-HK",
+        "voiceName": "yue-HK-Standard-A",
+        "gender": "FEMALE",
+        "name": "Amy"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Hong Kong)",
+        "voiceType": "Standard",
+        "languageCode": "yue-HK",
+        "voiceName": "yue-HK-Standard-B",
+        "gender": "MALE",
+        "name": "Chan"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Hong Kong)",
+        "voiceType": "Standard",
+        "languageCode": "yue-HK",
+        "voiceName": "yue-HK-Standard-C",
+        "gender": "FEMALE",
+        "name": "May"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Hong Kong)",
+        "voiceType": "Standard",
+        "languageCode": "yue-HK",
+        "voiceName": "yue-HK-Standard-D",
+        "gender": "MALE",
+        "name": "Chan"
+    },
+    {
+        "type": "google",
+        "language": "Czech (Czech Republic)",
+        "voiceType": "Standard",
+        "languageCode": "cs-CZ",
+        "voiceName": "cs-CZ-Standard-A",
+        "gender": "FEMALE",
+        "name": "Jana"
+    },
+    {
+        "type": "google",
+        "language": "Czech (Czech Republic)",
+        "voiceType": "WaveNet",
+        "languageCode": "cs-CZ",
+        "voiceName": "cs-CZ-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Petra"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "Standard",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Standard-A",
+        "gender": "FEMALE",
+        "name": "Helle"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "Standard",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Standard-C",
+        "gender": "MALE",
+        "name": "Henrik"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "Standard",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Standard-D",
+        "gender": "FEMALE",
+        "name": "Anne"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "Standard",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Standard-E",
+        "gender": "FEMALE",
+        "name": "Kim"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "WaveNet",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Anne"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "WaveNet",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Wavenet-C",
+        "gender": "MALE",
+        "name": "Jesper"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "WaveNet",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Anne"
+    },
+    {
+        "type": "google",
+        "language": "Danish (Denmark)",
+        "voiceType": "WaveNet",
+        "languageCode": "da-DK",
+        "voiceName": "da-DK-Wavenet-E",
+        "gender": "FEMALE",
+        "name": "Louise"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Belgium)",
+        "voiceType": "Standard",
+        "languageCode": "nl-BE",
+        "voiceName": "nl-BE-Standard-A",
+        "gender": "FEMALE",
+        "name": "Julie"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Belgium)",
+        "voiceType": "Standard",
+        "languageCode": "nl-BE",
+        "voiceName": "nl-BE-Standard-B",
+        "gender": "MALE",
+        "name": "Luc"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Belgium)",
+        "voiceType": "WaveNet",
+        "languageCode": "nl-BE",
+        "voiceName": "nl-BE-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Nathalie"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Belgium)",
+        "voiceType": "WaveNet",
+        "languageCode": "nl-BE",
+        "voiceName": "nl-BE-Wavenet-B",
+        "gender": "MALE",
+        "name": "Thomas"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "Standard",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Standard-A",
+        "gender": "FEMALE",
+        "name": "Petra"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "Standard",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Standard-B",
+        "gender": "MALE",
+        "name": "Jan"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "Standard",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Standard-C",
+        "gender": "MALE",
+        "name": "Henk"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "Standard",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Standard-D",
+        "gender": "FEMALE",
+        "name": "Linda"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "Standard",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Standard-E",
+        "gender": "FEMALE",
+        "name": "Karin"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "WaveNet",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Monique"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "WaveNet",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Wavenet-B",
+        "gender": "MALE",
+        "name": "Hans"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "WaveNet",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Wavenet-C",
+        "gender": "MALE",
+        "name": "Hans"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "WaveNet",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Linda"
+    },
+    {
+        "type": "google",
+        "language": "Dutch (Netherlands)",
+        "voiceType": "WaveNet",
+        "languageCode": "nl-NL",
+        "voiceName": "nl-NL-Wavenet-E",
+        "gender": "FEMALE",
+        "name": "Karin"
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Neural2",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Neural2-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Neural2",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Neural2-B",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Neural2",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Neural2-C",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Neural2",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Neural2-D",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-News-E",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-News-F",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-News-G",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Standard",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Standard-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Standard",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Standard-B",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Standard",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Standard-C",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "Standard",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Standard-D",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Wavenet-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Wavenet-B",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Wavenet-C",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (Australia)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-AU",
+        "voiceName": "en-AU-Wavenet-D",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "Standard",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Priya"
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "Standard",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Ajay"
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "Standard",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Standard-C",
+        "gender": "MALE",
+        "name": "Rahul"
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "Standard",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Standard-D",
+        "gender": "FEMALE",
+        "name": "Neha"
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Neha"
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Ajay"
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Wavenet-C",
+        "gender": "MALE",
+        "name": "Sanjay"
+    },
+    {
+        "type": "google",
+        "language": "English (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-IN",
+        "voiceName": "en-IN-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Neural2",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Emma"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Neural2",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Neural2-B",
+        "gender": "MALE",
+        "name": "Mark"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Neural2",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Neural2-C",
+        "gender": "FEMALE",
+        "name": "Emma"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Neural2",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Neural2-D",
+        "gender": "MALE",
+        "name": "Paul"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Neural2",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Neural2-F",
+        "gender": "FEMALE",
+        "name": "Lisa"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-News-G",
+        "gender": "FEMALE",
+        "name": "Laura"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-News-H",
+        "gender": "FEMALE",
+        "name": "Laura"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-News-I",
+        "gender": "FEMALE",
+        "name": "Karen"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-News-J",
+        "gender": "MALE",
+        "name": "Paul"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-News-K",
+        "gender": "MALE",
+        "name": "Paul"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-News-L",
+        "gender": "MALE",
+        "name": "Mark"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-News-M",
+        "gender": "MALE",
+        "name": "James"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Standard-A",
+        "gender": "FEMALE",
+        "name": "Emma"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Standard-B",
+        "gender": "MALE",
+        "name": "Mark"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Standard-C",
+        "gender": "FEMALE",
+        "name": "Lisa"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Standard-D",
+        "gender": "MALE",
+        "name": "Mark"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Standard-F",
+        "gender": "FEMALE",
+        "name": "Emma"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Sarah"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Wavenet-B",
+        "gender": "MALE",
+        "name": "John"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Laura"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Wavenet-D",
+        "gender": "MALE",
+        "name": "David"
+    },
+    {
+        "type": "google",
+        "language": "English (UK)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-GB",
+        "voiceName": "en-GB-Wavenet-F",
+        "gender": "FEMALE",
+        "name": "Karen"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-A",
+        "gender": "MALE",
+        "name": "Jose"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-C",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-D",
+        "gender": "MALE",
+        "name": "David"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-E",
+        "gender": "FEMALE",
+        "name": "Jennifer"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-F",
+        "gender": "FEMALE",
+        "name": "Mary"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-G",
+        "gender": "FEMALE",
+        "name": "Michelle"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-H",
+        "gender": "FEMALE",
+        "name": "Jessica"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-I",
+        "gender": "MALE",
+        "name": "John"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Neural2",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Neural2-J",
+        "gender": "MALE",
+        "name": "Michael"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-News-K",
+        "gender": "FEMALE",
+        "name": "Mary"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-News-L",
+        "gender": "FEMALE",
+        "name": "Jessica"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-News-M",
+        "gender": "MALE",
+        "name": "Jose"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-News-N",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-A",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-B",
+        "gender": "MALE",
+        "name": "Michael"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-C",
+        "gender": "FEMALE",
+        "name": "Michelle"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-D",
+        "gender": "MALE",
+        "name": "Michael"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-E",
+        "gender": "FEMALE",
+        "name": "Jessica"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-F",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-G",
+        "gender": "FEMALE",
+        "name": "Michelle"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-H",
+        "gender": "FEMALE",
+        "name": "Michelle"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-I",
+        "gender": "MALE",
+        "name": "John"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Standard-J",
+        "gender": "MALE",
+        "name": "David"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Studio",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Studio-M",
+        "gender": "MALE",
+        "name": "Jose"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "Studio",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Studio-O",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-A",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-B",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Jessica"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-D",
+        "gender": "MALE",
+        "name": "Michael"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-E",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-F",
+        "gender": "FEMALE",
+        "name": "Jessica"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-G",
+        "gender": "FEMALE",
+        "name": "Michelle"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-H",
+        "gender": "FEMALE",
+        "name": "Mary"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-I",
+        "gender": "MALE",
+        "name": "John"
+    },
+    {
+        "type": "google",
+        "language": "English (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "en-US",
+        "voiceName": "en-US-Wavenet-J",
+        "gender": "MALE",
+        "name": "Jose"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "Standard",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Standard-A",
+        "gender": "FEMALE",
+        "name": "Rowena"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "Standard",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Standard-B",
+        "gender": "FEMALE",
+        "name": "Mae"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "Standard",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Standard-C",
+        "gender": "MALE",
+        "name": "Jayson"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "Standard",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Standard-D",
+        "gender": "MALE",
+        "name": "Mj"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "WaveNet",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Mae"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "WaveNet",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Wavenet-B",
+        "gender": "FEMALE",
+        "name": "Maricel"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "WaveNet",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Wavenet-C",
+        "gender": "MALE",
+        "name": "Mj"
+    },
+    {
+        "type": "google",
+        "language": "Filipino (Philippines)",
+        "voiceType": "WaveNet",
+        "languageCode": "fil-PH",
+        "voiceName": "fil-PH-Wavenet-D",
+        "gender": "MALE",
+        "name": "Jay"
+    },
+    {
+        "type": "google",
+        "language": "Finnish (Finland)",
+        "voiceType": "Standard",
+        "languageCode": "fi-FI",
+        "voiceName": "fi-FI-Standard-A",
+        "gender": "FEMALE",
+        "name": "Minna"
+    },
+    {
+        "type": "google",
+        "language": "Finnish (Finland)",
+        "voiceType": "WaveNet",
+        "languageCode": "fi-FI",
+        "voiceName": "fi-FI-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Tiina"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Lisa"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Neural2-B",
+        "gender": "MALE",
+        "name": "John"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Neural2-C",
+        "gender": "FEMALE",
+        "name": "Michelle"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Neural2-D",
+        "gender": "MALE",
+        "name": "Kevin"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Standard",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Standard-A",
+        "gender": "FEMALE",
+        "name": "Sarah"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Standard",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Standard-B",
+        "gender": "MALE",
+        "name": "Michael"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Standard",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Standard-C",
+        "gender": "FEMALE",
+        "name": "Lisa"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "Standard",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Standard-D",
+        "gender": "MALE",
+        "name": "Kevin"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Jennifer"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Wavenet-B",
+        "gender": "MALE",
+        "name": "Kevin"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Nicole"
+    },
+    {
+        "type": "google",
+        "language": "French (Canada)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-CA",
+        "voiceName": "fr-CA-Wavenet-D",
+        "gender": "MALE",
+        "name": "Chris"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Nathalie"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Neural2-B",
+        "gender": "MALE",
+        "name": "Nicolas"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Neural2-C",
+        "gender": "FEMALE",
+        "name": "Isabelle"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Neural2-D",
+        "gender": "MALE",
+        "name": "Philippe"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Neural2",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Neural2-E",
+        "gender": "FEMALE",
+        "name": "Marie"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Standard-A",
+        "gender": "FEMALE",
+        "name": "Sylvie"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Standard-B",
+        "gender": "MALE",
+        "name": "Philippe"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Standard-C",
+        "gender": "FEMALE",
+        "name": "Isabelle"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Standard-D",
+        "gender": "MALE",
+        "name": "Nicolas"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Standard-E",
+        "gender": "FEMALE",
+        "name": "Sylvie"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Sophie"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Wavenet-B",
+        "gender": "MALE",
+        "name": "Christophe"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Nathalie"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Wavenet-D",
+        "gender": "MALE",
+        "name": "David"
+    },
+    {
+        "type": "google",
+        "language": "French (France)",
+        "voiceType": "WaveNet",
+        "languageCode": "fr-FR",
+        "voiceName": "fr-FR-Wavenet-E",
+        "gender": "FEMALE",
+        "name": "Sylvie"
+    },
+    {
+        "type": "google",
+        "language": "Galician (Spain)",
+        "voiceType": "Standard",
+        "languageCode": "gl-ES",
+        "voiceName": "gl-ES-Standard-A",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Neural2",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Neural2-D",
+        "gender": "MALE",
+        "name": "Thomas"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Neural2",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Neural2-F",
+        "gender": "FEMALE",
+        "name": "Petra"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Standard-A",
+        "gender": "FEMALE",
+        "name": "Sandra"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Standard-B",
+        "gender": "MALE",
+        "name": "Stefan"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Standard-C",
+        "gender": "FEMALE",
+        "name": "Nicole"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Standard-D",
+        "gender": "MALE",
+        "name": "Michael"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Standard-E",
+        "gender": "MALE",
+        "name": "Andreas"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Standard-F",
+        "gender": "FEMALE",
+        "name": "Claudia"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "WaveNet",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Petra"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "WaveNet",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Wavenet-B",
+        "gender": "MALE",
+        "name": "Michael"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "WaveNet",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Claudia"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "WaveNet",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Wavenet-D",
+        "gender": "MALE",
+        "name": "Andreas"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "WaveNet",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Wavenet-E",
+        "gender": "MALE",
+        "name": "Stefan"
+    },
+    {
+        "type": "google",
+        "language": "German (Germany)",
+        "voiceType": "WaveNet",
+        "languageCode": "de-DE",
+        "voiceName": "de-DE-Wavenet-F",
+        "gender": "FEMALE",
+        "name": "Sandra"
+    },
+    {
+        "type": "google",
+        "language": "Greek (Greece)",
+        "voiceType": "Standard",
+        "languageCode": "el-GR",
+        "voiceName": "el-GR-Standard-A",
+        "gender": "FEMALE",
+        "name": "\u039c\u03b1\u03c1\u03af\u03b1"
+    },
+    {
+        "type": "google",
+        "language": "Greek (Greece)",
+        "voiceType": "WaveNet",
+        "languageCode": "el-GR",
+        "voiceName": "el-GR-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Eleni"
+    },
+    {
+        "type": "google",
+        "language": "Gujarati (India)",
+        "voiceType": "Standard",
+        "languageCode": "gu-IN",
+        "voiceName": "gu-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Gujarati (India)",
+        "voiceType": "Standard",
+        "languageCode": "gu-IN",
+        "voiceName": "gu-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Rahul"
+    },
+    {
+        "type": "google",
+        "language": "Gujarati (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "gu-IN",
+        "voiceName": "gu-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Neha"
+    },
+    {
+        "type": "google",
+        "language": "Gujarati (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "gu-IN",
+        "voiceName": "gu-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Sanjay"
+    },
+    {
+        "type": "google",
+        "language": "Hebrew (Israel)",
+        "voiceType": "Standard",
+        "languageCode": "he-IL",
+        "voiceName": "he-IL-Standard-A",
+        "gender": "FEMALE",
+        "name": "\u0627\u0645"
+    },
+    {
+        "type": "google",
+        "language": "Hebrew (Israel)",
+        "voiceType": "Standard",
+        "languageCode": "he-IL",
+        "voiceName": "he-IL-Standard-B",
+        "gender": "MALE",
+        "name": "Ahmad"
+    },
+    {
+        "type": "google",
+        "language": "Hebrew (Israel)",
+        "voiceType": "Standard",
+        "languageCode": "he-IL",
+        "voiceName": "he-IL-Standard-C",
+        "gender": "FEMALE",
+        "name": "\u0627\u0645"
+    },
+    {
+        "type": "google",
+        "language": "Hebrew (Israel)",
+        "voiceType": "Standard",
+        "languageCode": "he-IL",
+        "voiceName": "he-IL-Standard-D",
+        "gender": "MALE",
+        "name": "\u05de\u05e9\u05d4"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Neural2",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Neha"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Neural2",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Neural2-B",
+        "gender": "MALE",
+        "name": "Rahul"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Neural2",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Neural2-C",
+        "gender": "MALE",
+        "name": "Sunil"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Neural2",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Neural2-D",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Standard",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Standard",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Rahul"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Standard",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Standard-C",
+        "gender": "MALE",
+        "name": "Ajay"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "Standard",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Standard-D",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Ajay"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Wavenet-C",
+        "gender": "MALE",
+        "name": "Sanjay"
+    },
+    {
+        "type": "google",
+        "language": "Hindi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "hi-IN",
+        "voiceName": "hi-IN-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Pooja"
+    },
+    {
+        "type": "google",
+        "language": "Hungarian (Hungary)",
+        "voiceType": "Standard",
+        "languageCode": "hu-HU",
+        "voiceName": "hu-HU-Standard-A",
+        "gender": "FEMALE",
+        "name": "Krisztina"
+    },
+    {
+        "type": "google",
+        "language": "Hungarian (Hungary)",
+        "voiceType": "WaveNet",
+        "languageCode": "hu-HU",
+        "voiceName": "hu-HU-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Judit"
+    },
+    {
+        "type": "google",
+        "language": "Icelandic (Iceland)",
+        "voiceType": "Standard",
+        "languageCode": "is-IS",
+        "voiceName": "is-IS-Standard-A",
+        "gender": "FEMALE",
+        "name": "Sigr\u00fan"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "Standard",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Standard-A",
+        "gender": "FEMALE",
+        "name": "Dewi"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "Standard",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Standard-B",
+        "gender": "MALE",
+        "name": "Agus"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "Standard",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Standard-C",
+        "gender": "MALE",
+        "name": "Bambang"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "Standard",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Standard-D",
+        "gender": "FEMALE",
+        "name": "Dewi"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "WaveNet",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Siti"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "WaveNet",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Wavenet-B",
+        "gender": "MALE",
+        "name": "Indra"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "WaveNet",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Wavenet-C",
+        "gender": "MALE",
+        "name": "Budi"
+    },
+    {
+        "type": "google",
+        "language": "Indonesian (Indonesia)",
+        "voiceType": "WaveNet",
+        "languageCode": "id-ID",
+        "voiceName": "id-ID-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Tri"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "Neural2",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Sara"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "Neural2",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Neural2-C",
+        "gender": "MALE",
+        "name": "Marco"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "Standard",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Standard-A",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "Standard",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Standard-B",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "Standard",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Standard-C",
+        "gender": "MALE",
+        "name": "Marco"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "Standard",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Standard-D",
+        "gender": "MALE",
+        "name": "Marco"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "WaveNet",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Anna"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "WaveNet",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Wavenet-B",
+        "gender": "FEMALE",
+        "name": "Francesca"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "WaveNet",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Wavenet-C",
+        "gender": "MALE",
+        "name": "Marco"
+    },
+    {
+        "type": "google",
+        "language": "Italian (Italy)",
+        "voiceType": "WaveNet",
+        "languageCode": "it-IT",
+        "voiceName": "it-IT-Wavenet-D",
+        "gender": "MALE",
+        "name": "Marco"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "Neural2",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Neural2-B",
+        "gender": "FEMALE",
+        "name": "Keiko"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "Neural2",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Neural2-C",
+        "gender": "MALE",
+        "name": "Akira"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "Neural2",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Neural2-D",
+        "gender": "MALE",
+        "name": "Daisuke"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "Standard",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Standard-A",
+        "gender": "FEMALE",
+        "name": "Yuka"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "Standard",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Standard-B",
+        "gender": "FEMALE",
+        "name": "Yuki"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "Standard",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Standard-C",
+        "gender": "MALE",
+        "name": "Takashi"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "Standard",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Standard-D",
+        "gender": "MALE",
+        "name": "Hiroshi"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "WaveNet",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Tomoko"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "WaveNet",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Wavenet-B",
+        "gender": "FEMALE",
+        "name": "Yuki"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "WaveNet",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Wavenet-C",
+        "gender": "MALE",
+        "name": "Takashi"
+    },
+    {
+        "type": "google",
+        "language": "Japanese (Japan)",
+        "voiceType": "WaveNet",
+        "languageCode": "ja-JP",
+        "voiceName": "ja-JP-Wavenet-D",
+        "gender": "MALE",
+        "name": "Yusuke"
+    },
+    {
+        "type": "google",
+        "language": "Kannada (India)",
+        "voiceType": "Standard",
+        "languageCode": "kn-IN",
+        "voiceName": "kn-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Pooja"
+    },
+    {
+        "type": "google",
+        "language": "Kannada (India)",
+        "voiceType": "Standard",
+        "languageCode": "kn-IN",
+        "voiceName": "kn-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Sunil"
+    },
+    {
+        "type": "google",
+        "language": "Kannada (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "kn-IN",
+        "voiceName": "kn-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Kannada (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "kn-IN",
+        "voiceName": "kn-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Md"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "Neural2",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Neural2-A",
+        "gender": "FEMALE",
+        "name": "\uc601\ud76c"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "Neural2",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Neural2-B",
+        "gender": "FEMALE",
+        "name": "\uc815\ud76c"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "Neural2",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Neural2-C",
+        "gender": "MALE",
+        "name": "\uc131\ud638"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "Standard",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Standard-A",
+        "gender": "FEMALE",
+        "name": "\uacbd\ud76c"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "Standard",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Standard-B",
+        "gender": "FEMALE",
+        "name": "\uc601\ud76c"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "Standard",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Standard-C",
+        "gender": "MALE",
+        "name": "\uc601\ud638"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "Standard",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Standard-D",
+        "gender": "MALE",
+        "name": "\uc815\ud638"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "WaveNet",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "\uacbd\ud76c"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "WaveNet",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Wavenet-B",
+        "gender": "FEMALE",
+        "name": "\ubbf8\uc219"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "WaveNet",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Wavenet-C",
+        "gender": "MALE",
+        "name": "\uc601\ucca0"
+    },
+    {
+        "type": "google",
+        "language": "Korean (South Korea)",
+        "voiceType": "WaveNet",
+        "languageCode": "ko-KR",
+        "voiceName": "ko-KR-Wavenet-D",
+        "gender": "MALE",
+        "name": "\uc131\ud638"
+    },
+    {
+        "type": "google",
+        "language": "Latvian (Latvia)",
+        "voiceType": "Standard",
+        "languageCode": "lv-LV",
+        "voiceName": "lv-LV-Standard-A",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "Standard",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Standard-A",
+        "gender": "FEMALE",
+        "name": "Nur"
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "Standard",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Standard-B",
+        "gender": "MALE",
+        "name": "Ahmad"
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "Standard",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Standard-C",
+        "gender": "FEMALE",
+        "name": "Nurul"
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "Standard",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Standard-D",
+        "gender": "MALE",
+        "name": "Ahmad"
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Nurul"
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Wavenet-B",
+        "gender": "MALE",
+        "name": "Md"
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Nur"
+    },
+    {
+        "type": "google",
+        "language": "Malay (Malaysia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ms-MY",
+        "voiceName": "ms-MY-Wavenet-D",
+        "gender": "MALE",
+        "name": "Ahmad"
+    },
+    {
+        "type": "google",
+        "language": "Malayalam (India)",
+        "voiceType": "Standard",
+        "languageCode": "ml-IN",
+        "voiceName": "ml-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Malayalam (India)",
+        "voiceType": "Standard",
+        "languageCode": "ml-IN",
+        "voiceName": "ml-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Rahul"
+    },
+    {
+        "type": "google",
+        "language": "Malayalam (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ml-IN",
+        "voiceName": "ml-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Malayalam (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ml-IN",
+        "voiceName": "ml-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Md"
+    },
+    {
+        "type": "google",
+        "language": "Malayalam (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ml-IN",
+        "voiceName": "ml-IN-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Malayalam (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ml-IN",
+        "voiceName": "ml-IN-Wavenet-D",
+        "gender": "MALE",
+        "name": "Md"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Lily"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Standard-B",
+        "gender": "MALE",
+        "name": "Yang"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Standard-C",
+        "gender": "MALE",
+        "name": "Yang"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Standard-D",
+        "gender": "FEMALE",
+        "name": "Li"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "WaveNet",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Lily"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "WaveNet",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Yang"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "WaveNet",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Wavenet-C",
+        "gender": "MALE",
+        "name": "Wang"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "WaveNet",
+        "languageCode": "cmn-CN",
+        "voiceName": "cmn-CN-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Lily"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-TW",
+        "voiceName": "cmn-TW-Standard-A",
+        "gender": "FEMALE",
+        "name": "Lin"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-TW",
+        "voiceName": "cmn-TW-Standard-B",
+        "gender": "MALE",
+        "name": "Wei"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-TW",
+        "voiceName": "cmn-TW-Standard-C",
+        "gender": "MALE",
+        "name": "Wang"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "WaveNet",
+        "languageCode": "cmn-TW",
+        "voiceName": "cmn-TW-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Lin"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "WaveNet",
+        "languageCode": "cmn-TW",
+        "voiceName": "cmn-TW-Wavenet-B",
+        "gender": "MALE",
+        "name": "Huang"
+    },
+    {
+        "type": "google",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "WaveNet",
+        "languageCode": "cmn-TW",
+        "voiceName": "cmn-TW-Wavenet-C",
+        "gender": "MALE",
+        "name": "Chang"
+    },
+    {
+        "type": "google",
+        "language": "Marathi (India)",
+        "voiceType": "Standard",
+        "languageCode": "mr-IN",
+        "voiceName": "mr-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Neha"
+    },
+    {
+        "type": "google",
+        "language": "Marathi (India)",
+        "voiceType": "Standard",
+        "languageCode": "mr-IN",
+        "voiceName": "mr-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Ajay"
+    },
+    {
+        "type": "google",
+        "language": "Marathi (India)",
+        "voiceType": "Standard",
+        "languageCode": "mr-IN",
+        "voiceName": "mr-IN-Standard-C",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Marathi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "mr-IN",
+        "voiceName": "mr-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Marathi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "mr-IN",
+        "voiceName": "mr-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Sunil"
+    },
+    {
+        "type": "google",
+        "language": "Marathi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "mr-IN",
+        "voiceName": "mr-IN-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "Standard",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Standard-A",
+        "gender": "FEMALE",
+        "name": "Marianne"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "Standard",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Standard-B",
+        "gender": "MALE",
+        "name": "Bj\u00f8rn"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "Standard",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Standard-C",
+        "gender": "FEMALE",
+        "name": "Hilde"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "Standard",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Standard-D",
+        "gender": "MALE",
+        "name": "Bj\u00f8rn"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "Standard",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Standard-E",
+        "gender": "FEMALE",
+        "name": "Marianne"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "WaveNet",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Kristin"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "WaveNet",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Wavenet-B",
+        "gender": "MALE",
+        "name": "Andreas"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "WaveNet",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Marianne"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "WaveNet",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Wavenet-D",
+        "gender": "MALE",
+        "name": "Andreas"
+    },
+    {
+        "type": "google",
+        "language": "Norwegian (Norway)",
+        "voiceType": "WaveNet",
+        "languageCode": "nb-NO",
+        "voiceName": "nb-NO-Wavenet-E",
+        "gender": "FEMALE",
+        "name": "Camilla"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Standard-A",
+        "gender": "FEMALE",
+        "name": "Katarzyna"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Standard-B",
+        "gender": "MALE",
+        "name": "Marcin"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Standard-C",
+        "gender": "MALE",
+        "name": "Pawe\u0142"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Standard-D",
+        "gender": "FEMALE",
+        "name": "Agnieszka"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Standard-E",
+        "gender": "FEMALE",
+        "name": "Monika"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "WaveNet",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Anna"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "WaveNet",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Wavenet-B",
+        "gender": "MALE",
+        "name": "Micha\u0142"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "WaveNet",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Wavenet-C",
+        "gender": "MALE",
+        "name": "Micha\u0142"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "WaveNet",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Agnieszka"
+    },
+    {
+        "type": "google",
+        "language": "Polish (Poland)",
+        "voiceType": "WaveNet",
+        "languageCode": "pl-PL",
+        "voiceName": "pl-PL-Wavenet-E",
+        "gender": "FEMALE",
+        "name": "Ewa"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "Neural2",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Fernanda"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "Neural2",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Neural2-B",
+        "gender": "MALE",
+        "name": "Francisco"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "Neural2",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Neural2-C",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "Standard",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Standard-A",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "Standard",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Standard-B",
+        "gender": "MALE",
+        "name": "Marcos"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "Standard",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Standard-C",
+        "gender": "FEMALE",
+        "name": "Adriana"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "WaveNet",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "WaveNet",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Wavenet-B",
+        "gender": "MALE",
+        "name": "Paulo"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Brazil)",
+        "voiceType": "WaveNet",
+        "languageCode": "pt-BR",
+        "voiceName": "pt-BR-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "Standard",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Standard-A",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "Standard",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Standard-B",
+        "gender": "MALE",
+        "name": "Carlos"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "Standard",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Standard-C",
+        "gender": "MALE",
+        "name": "Paulo"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "Standard",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Standard-D",
+        "gender": "FEMALE",
+        "name": "Catarina"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "WaveNet",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "WaveNet",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Wavenet-B",
+        "gender": "MALE",
+        "name": "Jo\u00e3o"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "WaveNet",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Wavenet-C",
+        "gender": "MALE",
+        "name": "Paulo"
+    },
+    {
+        "type": "google",
+        "language": "Portuguese (Portugal)",
+        "voiceType": "WaveNet",
+        "languageCode": "pt-PT",
+        "voiceName": "pt-PT-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "Standard",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Vicky"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "Standard",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Ajay"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "Standard",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Standard-C",
+        "gender": "FEMALE",
+        "name": "Pooja"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "Standard",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Standard-D",
+        "gender": "MALE",
+        "name": "Md"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Pooja"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Sanjay"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Pooja"
+    },
+    {
+        "type": "google",
+        "language": "Punjabi (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "pa-IN",
+        "voiceName": "pa-IN-Wavenet-D",
+        "gender": "MALE",
+        "name": "Rahul"
+    },
+    {
+        "type": "google",
+        "language": "Romanian (Romania)",
+        "voiceType": "Standard",
+        "languageCode": "ro-RO",
+        "voiceName": "ro-RO-Standard-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Romanian (Romania)",
+        "voiceType": "WaveNet",
+        "languageCode": "ro-RO",
+        "voiceName": "ro-RO-Wavenet-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "Standard",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Standard-A",
+        "gender": "FEMALE",
+        "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "Standard",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Standard-B",
+        "gender": "MALE",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "Standard",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Standard-C",
+        "gender": "FEMALE",
+        "name": "\u041e\u043b\u044c\u0433\u0430"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "Standard",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Standard-D",
+        "gender": "MALE",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "Standard",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Standard-E",
+        "gender": "FEMALE",
+        "name": "\u041e\u043b\u044c\u0433\u0430"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Wavenet-B",
+        "gender": "MALE",
+        "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "\u0422\u0430\u0442\u044c\u044f\u043d\u0430"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Wavenet-D",
+        "gender": "MALE",
+        "name": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440"
+    },
+    {
+        "type": "google",
+        "language": "Russian (Russia)",
+        "voiceType": "WaveNet",
+        "languageCode": "ru-RU",
+        "voiceName": "ru-RU-Wavenet-E",
+        "gender": "FEMALE",
+        "name": "\u041d\u0430\u0442\u0430\u043b\u044c\u044f"
+    },
+    {
+        "type": "google",
+        "language": "Serbian (Cyrillic)",
+        "voiceType": "Standard",
+        "languageCode": "sr-RS",
+        "voiceName": "sr-rs-Standard-A",
+        "gender": "FEMALE",
+        "name": "Jelena"
+    },
+    {
+        "type": "google",
+        "language": "Slovak (Slovakia)",
+        "voiceType": "Standard",
+        "languageCode": "sk-SK",
+        "voiceName": "sk-SK-Standard-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Slovak (Slovakia)",
+        "voiceType": "WaveNet",
+        "languageCode": "sk-SK",
+        "voiceName": "sk-SK-Wavenet-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Neural2",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Neural2",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Neural2-B",
+        "gender": "MALE",
+        "name": "Manuel"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Neural2",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Neural2-C",
+        "gender": "FEMALE",
+        "name": "Laura"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Neural2",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Neural2-D",
+        "gender": "FEMALE",
+        "name": "Isabel"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Neural2",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Neural2-E",
+        "gender": "FEMALE",
+        "name": "Ana"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Neural2",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Neural2-F",
+        "gender": "MALE",
+        "name": "Antonio"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Standard",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Standard-A",
+        "gender": "FEMALE",
+        "name": "Carmen"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Standard",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Standard-B",
+        "gender": "MALE",
+        "name": "David"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Standard",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Standard-C",
+        "gender": "FEMALE",
+        "name": "Carmen"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "Standard",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Standard-D",
+        "gender": "FEMALE",
+        "name": "Maria"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Wavenet-B",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Isabel"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (Spain)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-ES",
+        "voiceName": "es-ES-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Isabel"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "Neural2",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Neural2-A",
+        "gender": "FEMALE",
+        "name": "Jennifer"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "Neural2",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Neural2-B",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "Neural2",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Neural2-C",
+        "gender": "MALE",
+        "name": "Jose"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-US",
+        "voiceName": "es-US-News-D",
+        "gender": "MALE",
+        "name": "Jose"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-US",
+        "voiceName": "es-US-News-E",
+        "gender": "MALE",
+        "name": "Jose"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-US",
+        "voiceName": "es-US-News-F",
+        "gender": "FEMALE",
+        "name": "Mary"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-US",
+        "voiceName": "es-US-News-G",
+        "gender": "FEMALE",
+        "name": "Mary"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "Standard",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Standard-A",
+        "gender": "FEMALE",
+        "name": "Michelle"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "Standard",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Standard-B",
+        "gender": "MALE",
+        "name": "David"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "Standard",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Standard-C",
+        "gender": "MALE",
+        "name": "David"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Jessica"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Wavenet-B",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "Spanish (US)",
+        "voiceType": "WaveNet",
+        "languageCode": "es-US",
+        "voiceName": "es-US-Wavenet-C",
+        "gender": "MALE",
+        "name": "Juan"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "Standard",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Standard-A",
+        "gender": "FEMALE",
+        "name": "Eva"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "Standard",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Standard-B",
+        "gender": "FEMALE",
+        "name": "Lena"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "Standard",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Standard-C",
+        "gender": "FEMALE",
+        "name": "Karin"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "Standard",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Standard-D",
+        "gender": "MALE",
+        "name": "Fredrik"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "Standard",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Standard-E",
+        "gender": "MALE",
+        "name": "Fredrik"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "WaveNet",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Eva"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "WaveNet",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Wavenet-B",
+        "gender": "FEMALE",
+        "name": "Eva"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "WaveNet",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Wavenet-C",
+        "gender": "MALE",
+        "name": "Magnus"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "WaveNet",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Anna"
+    },
+    {
+        "type": "google",
+        "language": "Swedish (Sweden)",
+        "voiceType": "WaveNet",
+        "languageCode": "sv-SE",
+        "voiceName": "sv-SE-Wavenet-E",
+        "gender": "MALE",
+        "name": "Andreas"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "Standard",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Priya"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "Standard",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Rahul"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "Standard",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Standard-C",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "Standard",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Standard-D",
+        "gender": "MALE",
+        "name": "Ajay"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Pooja"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Wavenet-B",
+        "gender": "MALE",
+        "name": "Md"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Tamil (India)",
+        "voiceType": "WaveNet",
+        "languageCode": "ta-IN",
+        "voiceName": "ta-IN-Wavenet-D",
+        "gender": "MALE",
+        "name": "Sunil"
+    },
+    {
+        "type": "google",
+        "language": "Telugu (India)",
+        "voiceType": "Standard",
+        "languageCode": "te-IN",
+        "voiceName": "te-IN-Standard-A",
+        "gender": "FEMALE",
+        "name": "Priyanka"
+    },
+    {
+        "type": "google",
+        "language": "Telugu (India)",
+        "voiceType": "Standard",
+        "languageCode": "te-IN",
+        "voiceName": "te-IN-Standard-B",
+        "gender": "MALE",
+        "name": "Sunil"
+    },
+    {
+        "type": "google",
+        "language": "Thai (Thailand)",
+        "voiceType": "Standard",
+        "languageCode": "th-TH",
+        "voiceName": "th-TH-Standard-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "Standard",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Standard-A",
+        "gender": "FEMALE",
+        "name": "Emine"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "Standard",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Standard-B",
+        "gender": "MALE",
+        "name": "Mehmet"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "Standard",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Standard-C",
+        "gender": "FEMALE",
+        "name": "Ay\u015fe"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "Standard",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Standard-D",
+        "gender": "FEMALE",
+        "name": "Emine"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "Standard",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Standard-E",
+        "gender": "MALE",
+        "name": "Murat"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "WaveNet",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Wavenet-A",
+        "gender": "FEMALE",
+        "name": "Zeynep"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "WaveNet",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Wavenet-B",
+        "gender": "MALE",
+        "name": "Mustafa"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "WaveNet",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Wavenet-C",
+        "gender": "FEMALE",
+        "name": "Zeynep"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "WaveNet",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Wavenet-D",
+        "gender": "FEMALE",
+        "name": "Hatice"
+    },
+    {
+        "type": "google",
+        "language": "Turkish (Turkey)",
+        "voiceType": "WaveNet",
+        "languageCode": "tr-TR",
+        "voiceName": "tr-TR-Wavenet-E",
+        "gender": "MALE",
+        "name": "Ahmet"
+    },
+    {
+        "type": "google",
+        "language": "Ukrainian (Ukraine)",
+        "voiceType": "Standard",
+        "languageCode": "uk-UA",
+        "voiceName": "uk-UA-Standard-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Ukrainian (Ukraine)",
+        "voiceType": "WaveNet",
+        "languageCode": "uk-UA",
+        "voiceName": "uk-UA-Wavenet-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "Standard",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Standard-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "Standard",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Standard-B",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "Standard",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Standard-C",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "Standard",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Standard-D",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "WaveNet",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Wavenet-A",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "WaveNet",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Wavenet-B",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "WaveNet",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Wavenet-C",
+        "gender": "FEMALE",
+        "name": ""
+    },
+    {
+        "type": "google",
+        "language": "Vietnamese (Vietnam)",
+        "voiceType": "WaveNet",
+        "languageCode": "vi-VN",
+        "voiceName": "vi-VN-Wavenet-D",
+        "gender": "MALE",
+        "name": ""
+    },
+    {
+        "type": "aws",
+        "language": "Arabic",
+        "voiceType": "Standard",
+        "languageCode": "arb",
+        "voiceName": " Zeina",
+        "gender": "Female",
+        "name": ""
+    },
+    {
+        "type": "aws",
+        "language": "Chinese (Mandarin)",
+        "voiceType": "Standard",
+        "languageCode": "cmn-CN",
+        "voiceName": " Zhiyu",
+        "gender": "Female",
+        "name": "Lily"
+    },
+    {
+        "type": "aws",
+        "language": "Danish (Denmark)",
+        "voiceType": "Standard",
+        "languageCode": "da-DK",
+        "voiceName": " Naja",
+        "gender": "Female",
+        "name": "Mette"
+    },
+    {
+        "type": "aws",
+        "language": "Danish (Denmark)",
+        "voiceType": "Standard",
+        "languageCode": "da-DK",
+        "voiceName": " Mads",
+        "gender": "Male",
+        "name": "Jesper"
+    },
+    {
+        "type": "aws",
+        "language": "Dutch",
+        "voiceType": "Standard",
+        "languageCode": "nl-NL",
+        "voiceName": " Lotte",
+        "gender": "Female",
+        "name": "Karin"
+    },
+    {
+        "type": "aws",
+        "language": "Dutch",
+        "voiceType": "Standard",
+        "languageCode": "nl-NL",
+        "voiceName": " Ruben",
+        "gender": "Male",
+        "name": "Hans"
+    },
+    {
+        "type": "aws",
+        "language": "English (Australian)",
+        "voiceType": "Standard",
+        "languageCode": "en-AU",
+        "voiceName": " Nicole",
+        "gender": "Female",
+        "name": ""
+    },
+    {
+        "type": "aws",
+        "language": "English (Australian)",
+        "voiceType": "Standard",
+        "languageCode": "en-AU",
+        "voiceName": " Russell",
+        "gender": "Male",
+        "name": ""
+    },
+    {
+        "type": "aws",
+        "language": "English (British)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": " Amy**",
+        "gender": "Female",
+        "name": "Lisa"
+    },
+    {
+        "type": "aws",
+        "language": "English (British)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": " Emma",
+        "gender": "Female",
+        "name": "Karen"
+    },
+    {
+        "type": "aws",
+        "language": "English (British)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB",
+        "voiceName": " Brian",
+        "gender": "Male",
+        "name": "Mark"
+    },
+    {
+        "type": "aws",
+        "language": "English (Indian)",
+        "voiceType": "Standard",
+        "languageCode": "en-IN",
+        "voiceName": " Aditi*",
+        "gender": "Female",
+        "name": "Pooja"
+    },
+    {
+        "type": "aws",
+        "language": "English (Indian)",
+        "voiceType": "Standard",
+        "languageCode": "en-IN",
+        "voiceName": " Raveena",
+        "gender": "Female",
+        "name": "Vicky"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Ivy",
+        "gender": "Female-child",
+        "name": "Jennifer"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Joanna**",
+        "gender": "Female",
+        "name": "Maria"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Kendra",
+        "gender": "Female",
+        "name": "Maria"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Kimberly",
+        "gender": "Female",
+        "name": "Mary"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Salli",
+        "gender": "Female",
+        "name": "Jessica"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Joey",
+        "gender": "Male",
+        "name": "Jose"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Justin",
+        "gender": "Male-child",
+        "name": "Juan"
+    },
+    {
+        "type": "aws",
+        "language": "English (US)",
+        "voiceType": "Standard",
+        "languageCode": "en-US",
+        "voiceName": " Matthew**",
+        "gender": "Male",
+        "name": "Jose"
+    },
+    {
+        "type": "aws",
+        "language": "English (Welsh)",
+        "voiceType": "Standard",
+        "languageCode": "en-GB-WLS",
+        "voiceName": " Geraint",
+        "gender": "Male",
+        "name": ""
+    },
+    {
+        "type": "aws",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": " C\u00e9line/Celine",
+        "gender": "Female",
+        "name": "Nathalie"
+    },
+    {
+        "type": "aws",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": " L\u00e9a",
+        "gender": "Female",
+        "name": "Sylvie"
+    },
+    {
+        "type": "aws",
+        "language": "French (France)",
+        "voiceType": "Standard",
+        "languageCode": "fr-FR",
+        "voiceName": " Mathieu",
+        "gender": "Male",
+        "name": "Nicolas"
+    },
+    {
+        "type": "aws",
+        "language": "French (Canada)",
+        "voiceType": "Standard",
+        "languageCode": "fr-CA",
+        "voiceName": " Chantal",
+        "gender": "Female",
+        "name": "Nicole"
+    },
+    {
+        "type": "aws",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": " Marlene",
+        "gender": "Female",
+        "name": "Nicole"
+    },
+    {
+        "type": "aws",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": " Vicki",
+        "gender": "Female",
+        "name": "Nicole"
+    },
+    {
+        "type": "aws",
+        "language": "German (Germany)",
+        "voiceType": "Standard",
+        "languageCode": "de-DE",
+        "voiceName": " Hans",
+        "gender": "Male",
+        "name": "Andreas"
+    },
+    {
+        "type": "aws",
+        "language": "Hindi (India)",
+        "voiceType": "Standard",
+        "languageCode": "hi-IN",
+        "voiceName": " Aditi*",
+        "gender": "Female",
+        "name": "Neha"
+    },
+    {
+        "type": "aws",
+        "language": "Icelandic (Iceland)",
+        "voiceType": "Standard",
+        "languageCode": "is-IS",
+        "voiceName": " D\u00f3ra/Dora",
+        "gender": "Female",
+        "name": "Margr\u00e9t"
+    },
+    {
+        "type": "aws",
+        "language": "Icelandic (Iceland)",
+        "voiceType": "Standard",
+        "languageCode": "is-IS",
+        "voiceName": " Karl",
+        "gender": "Male",
+        "name": "Gu\u00f0mundur"
+    },
+    {
+        "type": "aws",
+        "language": "Italian (Italy)",
+        "voiceType": "Standard",
+        "languageCode": "it-IT",
+        "voiceName": " Carla",
+        "gender": "Female",
+        "name": "Anna"
+    },
+    {
+        "type": "aws",
+        "language": "Italian (Italy)",
+        "voiceType": "Standard",
+        "languageCode": "it-IT",
+        "voiceName": " Bianca",
+        "gender": "Female",
+        "name": "Francesca"
+    },
+    {
+        "type": "aws",
+        "language": "Italian (Italy)",
+        "voiceType": "Standard",
+        "languageCode": "it-IT",
+        "voiceName": " Giorgio",
+        "gender": "Male",
+        "name": "Marco"
+    },
+    {
+        "type": "aws",
+        "language": "Japanese (Japan)",
+        "voiceType": "Standard",
+        "languageCode": "ja-JP",
+        "voiceName": " Mizuki",
+        "gender": "Female",
+        "name": "Tomoko"
+    },
+    {
+        "type": "aws",
+        "language": "Japanese (Japan)",
+        "voiceType": "Standard",
+        "languageCode": "ja-JP",
+        "voiceName": " Takumi",
+        "gender": "Male",
+        "name": "Yusuke"
+    },
+    {
+        "type": "aws",
+        "language": "Korean (South Korea)",
+        "voiceType": "Standard",
+        "languageCode": "ko-KR",
+        "voiceName": " Seoyeon",
+        "gender": "Female",
+        "name": "\ubbf8\uc219"
+    },
+    {
+        "type": "aws",
+        "language": "Norwegian (Norway)",
+        "voiceType": "Standard",
+        "languageCode": "nb-NO",
+        "voiceName": " Liv",
+        "gender": "Female",
+        "name": "Camilla"
+    },
+    {
+        "type": "aws",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": " Ewa",
+        "gender": "Female",
+        "name": "Ewa"
+    },
+    {
+        "type": "aws",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": " Maja",
+        "gender": "Female",
+        "name": "Anna"
+    },
+    {
+        "type": "aws",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": " Jacek",
+        "gender": "Male",
+        "name": "Micha\u0142"
+    },
+    {
+        "type": "aws",
+        "language": "Polish (Poland)",
+        "voiceType": "Standard",
+        "languageCode": "pl-PL",
+        "voiceName": " Jan",
+        "gender": "Male",
+        "name": "Krzysztof"
+    },
+    {
+        "type": "aws",
+        "language": "Portuguese (Brazilian)",
+        "voiceType": "Standard",
+        "languageCode": "pt-BR",
+        "voiceName": " Camila",
+        "gender": "Female",
+        "name": "Ana"
+    },
+    {
+        "type": "aws",
+        "language": "Portuguese (Brazilian)",
+        "voiceType": "Standard",
+        "languageCode": "pt-BR",
+        "voiceName": " Vit\u00f3ria/Vitoria",
+        "gender": "Female",
+        "name": "Fernanda"
+    },
+    {
+        "type": "aws",
+        "language": "Portuguese (Brazilian)",
+        "voiceType": "Standard",
+        "languageCode": "pt-BR",
+        "voiceName": " Ricardo",
+        "gender": "Male",
+        "name": "Marcos"
+    },
+    {
+        "type": "aws",
+        "language": "Portuguese (European)",
+        "voiceType": "Standard",
+        "languageCode": "pt-PT",
+        "voiceName": " In\u00eas/Ines",
+        "gender": "Female",
+        "name": "Carla"
+    },
+    {
+        "type": "aws",
+        "language": "Portuguese (European)",
+        "voiceType": "Standard",
+        "languageCode": "pt-PT",
+        "voiceName": " Cristiano",
+        "gender": "Male",
+        "name": "Carlos"
+    },
+    {
+        "type": "aws",
+        "language": "Romanian (Romania)",
+        "voiceType": "Standard",
+        "languageCode": "ro-RO",
+        "voiceName": " Carmen",
+        "gender": "Female",
+        "name": ""
+    },
+    {
+        "type": "aws",
+        "language": "Russian (Russia)",
+        "voiceType": "Standard",
+        "languageCode": "ru-RU",
+        "voiceName": " Tatyana",
+        "gender": "Female",
+        "name": "\u0415\u043b\u0435\u043d\u0430"
+    },
+    {
+        "type": "aws",
+        "language": "Russian (Russia)",
+        "voiceType": "Standard",
+        "languageCode": "ru-RU",
+        "voiceName": " Maxim",
+        "gender": "Male",
+        "name": "\u0414\u043c\u0438\u0442\u0440\u0438\u0439"
+    },
+    {
+        "type": "aws",
+        "language": "Spanish (European)",
+        "voiceType": "Standard",
+        "languageCode": "es-ES",
+        "voiceName": " Conchita",
+        "gender": "Female",
+        "name": "Laura"
+    },
+    {
+        "type": "aws",
+        "language": "Spanish (European)",
+        "voiceType": "Standard",
+        "languageCode": "es-ES",
+        "voiceName": " Lucia",
+        "gender": "Female",
+        "name": "Carmen"
+    },
+    {
+        "type": "aws",
+        "language": "Spanish (European)",
+        "voiceType": "Standard",
+        "languageCode": "es-ES",
+        "voiceName": " Enrique",
+        "gender": "Male",
+        "name": "Antonio"
+    },
+    {
+        "type": "aws",
+        "language": "Spanish (Mexican)",
+        "voiceType": "Standard",
+        "languageCode": "es-MX",
+        "voiceName": " Mia",
+        "gender": "Female",
+        "name": "Ana"
+    },
+    {
+        "type": "aws",
+        "language": "Spanish (US)",
+        "voiceType": "Standard",
+        "languageCode": "es-US",
+        "voiceName": " Lupe**",
+        "gender": "Female",
+        "name": "Michelle"
+    },
+    {
+        "type": "aws",
+        "language": "Spanish (US)",
+        "voiceType": "Standard",
+        "languageCode": "es-US",
+        "voiceName": " Pen\u00e9lope/Penelope",
+        "gender": "Female",
+        "name": "Jennifer"
+    },
+    {
+        "type": "aws",
+        "language": "Spanish (US)",
+        "voiceType": "Standard",
+        "languageCode": "es-US",
+        "voiceName": " Miguel",
+        "gender": "Male",
+        "name": "Juan"
+    },
+    {
+        "type": "aws",
+        "language": "Swedish (Sweden)",
+        "voiceType": "Standard",
+        "languageCode": "sv-SE",
+        "voiceName": " Astrid",
+        "gender": "Female",
+        "name": "Karin"
+    },
+    {
+        "type": "aws",
+        "language": "Turkish (Turkey)",
+        "voiceType": "Standard",
+        "languageCode": "tr-TR",
+        "voiceName": " Filiz",
+        "gender": "Female",
+        "name": "Emine"
+    },
+    {
+        "type": "aws",
+        "language": "Welsh",
+        "voiceType": "Standard",
+        "languageCode": "cy-GB",
+        "voiceName": " Gwyneth",
+        "gender": "Female",
+        "name": "Karen"
+    }
+]
